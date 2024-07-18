@@ -1,11 +1,13 @@
 # VerySimpleFFmpeg
-FFmpegをUI形式で使えるようにしたものです。
-機能は私が個人的に使いたいものしか入れていません。
+FFmpegをGUIで使えるようにしたもの
+機能は私が個人的に使いたいものしか入れてませんので実用性皆無
+ソースコードも配布してるので、自由に拡張してもらって構いません。
 
 ## How to use
- - FFmpegをインストールし、binファイルのパスを以下に通してください。
+ - [FFmpeg](https://www.ffmpeg.org/download.html)をインストールし、binファイルのパスを以下に通してください。
 C:/ffmpeg/bin/
  - ffmpeg-pythonをインストール
+pip install ffmpeg-python
 
 ## 機能
  - H.264からH.265への変換
