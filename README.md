@@ -7,7 +7,9 @@ FFmpegをGUIで使えるようにしたもの
  - [FFmpeg](https://www.ffmpeg.org/download.html)をインストールし、binファイルのパスを以下に通してください。
 C:/ffmpeg/bin/
  - ffmpeg-pythonをインストール
-pip install ffmpeg-python
+```sh
+$ pip install ffmpeg-python
+```
 
 ## 機能
  - H.264からH.265への変換
