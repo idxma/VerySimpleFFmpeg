@@ -2,6 +2,7 @@
  - FFmpegをGUIで使えるようにしたもの
  - 機能は私が個人的に使いたいものしか入れてませんので実用性皆無
  - ソースコードも配布してるので、自由に拡張してもらって構いません。
+ - Windowsのみ動作検証済み
 
 ## How to use
  - [FFmpeg](https://www.ffmpeg.org/download.html)をインストールし、binファイルのパスを以下に通してください。
