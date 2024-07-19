@@ -12,6 +12,7 @@ C:/ffmpeg/bin/
 ```sh
 $ pip install ffmpeg-python
 ```
+VerySimpleFFmpeg.exeの起動
 
 ## 機能
  - H.264からH.265への変換
