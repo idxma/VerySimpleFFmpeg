@@ -15,6 +15,8 @@ $ pip install ffmpeg-python
  - VerySimpleFFmpeg.exeの起動
 
 ## 機能
+![171c067b2abdc9572767e2f6ab6e6b4a](https://github.com/user-attachments/assets/7ff49470-d072-43c0-b406-6afd7bc94d76)
+
  - H.264からH.265への変換
  - H.265からH.264への変換
  - mp4ファイルをwavへ変換
